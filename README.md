@@ -1,0 +1,2 @@
+# bdmail
+bd.email
